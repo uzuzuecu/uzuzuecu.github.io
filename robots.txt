@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uzuzuecu.github.io/sitemap_index.uzuzuecu
